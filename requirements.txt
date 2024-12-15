@@ -1,1 +1,12 @@
 fastapi[all]
+requests
+pinecone
+langchain_groq
+langchain_core
+PyPDF2
+langchain
+streamlit
+pydantic
+langchain_huggingface
+pinecone_text
+langchain_community
